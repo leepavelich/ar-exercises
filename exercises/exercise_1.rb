@@ -26,3 +26,5 @@ gastown = Store.create(
 )
 
 puts Store.count
+
+puts `clear`

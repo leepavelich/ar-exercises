@@ -12,3 +12,5 @@ puts "----------"
 @store1.name = "Victoriaville"
 
 @store1.save
+
+puts `clear`

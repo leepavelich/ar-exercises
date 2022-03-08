@@ -37,3 +37,5 @@ yaletown = Store.create(
   .where("annual_revenue < 1000000")
 
   @womens_underperforming_stores.each { |x| puts x.name}
+
+  puts `clear`

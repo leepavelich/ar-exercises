@@ -12,3 +12,5 @@ puts "----------"
 @store3.destroy
 
 puts Store.count
+
+puts `clear`
